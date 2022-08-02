@@ -645,10 +645,10 @@ xterm-addon-webgl@0.12.0-beta.13:
   resolved "https://registry.yarnpkg.com/xterm-addon-webgl/-/xterm-addon-webgl-0.12.0-beta.13.tgz#95ecf99531adcce1349f2ddfc834a40af681780e"
   integrity sha512-oPQHkFcuCB+x60wilGXFS+viZbOGNFijmuHEWehCUcLFQP5Mph0/6qXLZjgn47728QvCxU7HnXPqcD7JSxe0Tg==
 
-xterm-headless@4.15.0-beta.3:
-  version "4.15.0-beta.3"
-  resolved "https://registry.yarnpkg.com/xterm-headless/-/xterm-headless-4.15.0-beta.3.tgz#b1ba884e2e2feef17d92eaf3ff59b0b20c059dd8"
-  integrity sha512-MmC75/XUz9z1fHBdJV0Mx9Fje+8hegocT1NfWUNLri3+XFvy5/UbLRhrGUw/lxWKgthseV6eqI44QTNh7fVTQg==
+xterm-headless@4.19.0:
+  version "4.19.0"
+  resolved "https://registry.yarnpkg.com/xterm-headless/-/xterm-headless-4.19.0.tgz#965eb293fe6258adff5888f24e2a0b778b765e17"
+  integrity sha512-rYP8I1AGwaztpCoWe9mwxNqmfz7zZCjbzw61QChFqPeiDERjW9CDnqyGhSElvicHAlf47dvA+p4qOuKltxWEkg==
 
 xterm@^4.15.0-beta.3:
   version "4.15.0-beta.3"
